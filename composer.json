@@ -1,0 +1,21 @@
+{
+    "name": "weeder-match-hack/weeder-match-hack-mod-apk-get-unlimited-cash",
+    "description": "Weeder Match Hack Mod APK Get Unlimited Cash Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Weeder Match",
+            "homepage": "http://astuce.cf/2019/02/weeder-match-hack-cash-cheats.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
